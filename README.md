@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+YOURChain’s platform architecture is a decentralized, economically sustainable public compute infrastructure. The platform design results from the inspirations of earlier blockchains and builds on top of the shoulders of giants in the disciplines of mathematics and   programming   language   design.
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/yourchaincommunity/yourchaincommunity.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
