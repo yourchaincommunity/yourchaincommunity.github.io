@@ -5,15 +5,15 @@ img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 0px solid #ebebeb;
+  padding: 0px;
+  margin: 0px 0 0px 0;
+  border: 0px solid #000000;
 
-  box-shadow: 0 0 0px #ebebeb;
-  -webkit-box-shadow: 0 0 0px #ebebeb;
-  -moz-box-shadow: 0 0 0px #ebebeb;
-  -o-box-shadow: 0 0 0px #ebebeb;
-  -ms-box-shadow: 0 0 0px #ebebeb;
+  box-shadow: 0 0 0px #000000;
+  -webkit-box-shadow: 0 0 0px #000000;
+  -moz-box-shadow: 0 0 0px #000000;
+  -o-box-shadow: 0 0 0px #000000;
+  -ms-box-shadow: 0 0 0px #000000;
 }
 
 @import "{{ site.theme }}";
